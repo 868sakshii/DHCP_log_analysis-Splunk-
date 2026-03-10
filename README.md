@@ -2,7 +2,7 @@
 
 The DHCP logs were successfully ingested and indexed in Splunk for analysis.
 
-![DHCP Logs](Screenshot(60).png)
+![DHCP Logs](dhcp_events.png)
 
 ## DHCP Event Analysis
 
