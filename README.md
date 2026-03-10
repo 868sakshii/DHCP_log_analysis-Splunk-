@@ -21,4 +21,4 @@ Example query used to detect hosts generating high DHCP request counts.
 
 A visualization showing the top IP addresses generating DHCP requests.
 
-![Visualization](Screenshot(70).png)
+![Visualization](visualization.png)
